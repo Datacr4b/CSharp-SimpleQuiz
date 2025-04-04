@@ -95,10 +95,11 @@ namespace SimpleQuiz
             while (true)
             {
                 Console.Clear();
+                Console.WriteLine("Question {index+1} of {list.Length}");
                 Console.WriteLine(list[index]);
                 Console.WriteLine("Agree (a) Maybe (m) Disagree (d): ");
                 input = Console.ReadLine();
-                if (input.All(char.IsLetter) && input.ToLower() == "a" || input.ToLower() == "m" || input.ToLower() == "d" )
+                if (input.ToLower() == "a" || input.ToLower() == "m" || input.ToLower() == "d" )
                 {
                     QuizScore(input.ToLower());
                     break;
