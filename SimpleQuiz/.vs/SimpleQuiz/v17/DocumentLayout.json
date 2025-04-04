@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-SimpleQuiz\\SimpleQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF945FF-83F1-46C6-83AB-6F75484C504F}|SimpleQuiz\\SimpleQuiz.csproj|c:\\users\\julia.menshikov\\desktop\\tortoise c# projects\\csharp-simplequiz\\simplequiz\\simplequiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF945FF-83F1-46C6-83AB-6F75484C504F}|SimpleQuiz\\SimpleQuiz.csproj|solutionrelative:simplequiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-SimpleQuiz\\SimpleQuiz\\SimpleQuiz\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleQuiz\\Program.cs",
+              "ToolTip": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-SimpleQuiz\\SimpleQuiz\\SimpleQuiz\\Program.cs",
+              "RelativeToolTip": "SimpleQuiz\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:20:59.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
